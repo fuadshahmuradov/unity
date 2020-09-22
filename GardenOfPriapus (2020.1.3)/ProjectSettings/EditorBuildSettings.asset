@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash Screen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Options Screen.unity
+    guid: 4947464f3f80a164f974c21711c2120e
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: ec055bbdb3f6d8f4583166d0b9c139c7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 1.unity
+    guid: 9ed158879b844834fbf6e0d331a22756
+  - enabled: 1
+    path: Assets/Scenes/Win Lantern.unity
+    guid: a220d8c479fce80448dd2a76c42b70b2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 2.unity
+    guid: ee033c0542644624f905beeb3bd4daeb
+  - enabled: 1
+    path: Assets/Scenes/Win Scarecrow.unity
+    guid: 19fda9cd654fd1b4e8171ea76495227f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 3.unity
+    guid: 825adeb8ed7fb1a44b49a90a1dc3f3fd
+  - enabled: 1
+    path: Assets/Scenes/Win Picky.unity
+    guid: 138ac864e4c66804f8b3c3e8ea6bf5ae
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 4.unity
+    guid: a9585daf35fa1654b8f50b93e61e8284
+  - enabled: 1
+    path: Assets/Scenes/Win Gnome.unity
+    guid: be578254d03475d41b86eb6621ad0926
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 5.unity
+    guid: e4015a851622eda48944684760183f8a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 6.unity
+    guid: ea6f7803a2779f84dac34c40d2bf6d2a
+  - enabled: 1
+    path: Assets/Scenes/Win Beety.unity
+    guid: 5bb10da5d0500ae40a4b6591c5968358
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 7.unity
+    guid: 87fe3089ccb03564baa5a3438ec196cd
+  - enabled: 1
+    path: Assets/Scenes/Win Peastol.unity
+    guid: ae9525bf4961810479f4e96cb1186856
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 8.unity
+    guid: 8fc57d7e46e260e49b71e535ac9b0c1c
+  - enabled: 1
+    path: Assets/Scenes/Win Stonecrow.unity
+    guid: 923bed3a82d7a344f9e534ed759dfcc2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 9.unity
+    guid: b330469db74fda444a1abe90386b28bd
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 10.unity
+    guid: 6c035fbef25718549a75628dad085046
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: b641ddcac2deeb444b66976e8d01744a
+  - enabled: 1
+    path: Assets/Scenes/About Screen.unity
+    guid: 7f27051c65fb08243b88ced383d040f2
+  m_configObjects: {}

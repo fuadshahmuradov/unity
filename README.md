@@ -4,9 +4,7 @@ You can run and build them inside Unity. But be aware that different versions ma
 
 Join us:
 
-YouTube: https://www.youtube.com/channel/UC65HrLujSp6OQYsdhvYE88A/?sub_confirmation=1
-
-Discord: https://discord.gg/EhgMPsx
+YouTube: https://www.youtube.com/shahmuradov/?sub_confirmation=1
 
 Facebook: https://fb.com/shahmuradovsss
 
